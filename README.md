@@ -1,5 +1,7 @@
 # Paging.JS
 
+[![NPM version][npm-image]][npm-url]
+
 > A ES2015+ class to provide a simple but powerfull pagination.
 
 This library is written for use in [EVE Wreckbench](https://evewreckbench.com) to provide a powerfull but easy to use paging library without the need for jQuery or other JavaScript frameworks.
@@ -9,7 +11,7 @@ Can be used in stateless and stateful mode and has many options to configure it 
 > I'm still writing the docs... :)
 
 # Installation or download
-`npm install paging.js`, `bower install paging.js` or download [paging.js (full)](dist/paging.js) - [paging.min.js (minified)](dist/paging.min.js) from this repository.
+`npm install paging.js` or download [paging.js (full)](dist/paging.js) - [paging.min.js (minified)](dist/paging.min.js) from this repository.
 
 # Getting started
 

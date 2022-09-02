@@ -1,0 +1,28 @@
+{
+  "name": "paging.js",
+  "version": "1.0.0",
+  "description": "A ES2015+ class to provide a simple but powerfull pagination system.",
+  "main": "dist/paging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lionear/Paging.JS.git"
+  },
+  "keywords": [
+    "pagination",
+    "paging"
+  ],
+  "author": "Lionear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lionear/Paging.JS/issues"
+  },
+  "homepage": "https://github.com/Lionear/Paging.JS#readme",
+  "devDependencies": {
+    "grunt": "~1.5.3",
+    "grunt-contrib-uglify": "~5.2.2",
+    "grunt-contrib-copy": "~1.0.0"
+  }
+}
